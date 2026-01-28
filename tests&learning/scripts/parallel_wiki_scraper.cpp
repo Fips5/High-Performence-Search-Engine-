@@ -1,4 +1,4 @@
-#include <parallel-web-scraper/parallel_web_scraper.h> // placeholder, adjust include path
+#include <parallel_web_scraper/scraper.h>
 #include <iostream>
 #include <fstream>
 #include <filesystem>
